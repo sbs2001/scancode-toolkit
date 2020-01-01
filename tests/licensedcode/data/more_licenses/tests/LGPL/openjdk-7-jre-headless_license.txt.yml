@@ -72,13 +72,15 @@ license_expressions:
   - warranty-disclaimer
   - x11-xconsortium
   - x11
+  - mit-no-advert-export-control
   - x11-keith-packard
   - x11-opengroup
   - x11-keith-packard
   - x11-xconsortium
   - x11-xconsortium
   - x11-keith-packard
-  - xfree86-1.0
+  - unknown
+  - mit
   - unknown
   - free-unknown
   - zlib
@@ -89,18 +91,15 @@ license_expressions:
   - gpl-2.0-plus
   - gpl-1.0-plus
   - mozilla-gc
-  - gpl-1.0-plus
+  - gpl-1.0-plus AND other-permissive AND other-copyleft
   - mit
   - x11-lucent
   - sunpro
   - gpl-2.0
   - gpl-2.0-plus
   - gpl-2.0-plus
-  - gpl-1.0-plus
-  - gpl-1.0-plus
-  - classpath-exception-2.0
-  - gpl-1.0-plus
-  - classpath-exception-2.0
+  - gpl-2.0-plus
+  - gpl-2.0 WITH classpath-exception-2.0
   - gpl-1.0-plus WITH autoconf-simple-exception-2.0
   - gpl-2.0-plus
   - zlib
@@ -108,5 +107,3 @@ license_expressions:
   - mit
   - gpl-2.0-plus
   - gpl-2.0-plus
-  - gpl-1.0-plus
-  - gpl-2.0
