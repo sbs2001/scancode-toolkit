@@ -1,2 +1,2 @@
 tasks:
-  - init: pip install .
+  - init: export PIP_USER=no && ./configure
