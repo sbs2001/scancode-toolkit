@@ -1,2 +1,2 @@
 tasks:
-  - init: export PIP_USER=no && ./configure && ./scancode --reindex-licenses
+  - init: export PIP_USER=no && ./configure && source bin/activate && ./scancode --reindex-licenses
